@@ -1,0 +1,4 @@
+docx2txt
+nltk
+scikit-learn
+joblib
